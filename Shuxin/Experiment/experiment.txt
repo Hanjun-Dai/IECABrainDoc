@@ -1,0 +1,17 @@
+mnist
+cpu:	iecabrain	opencv	caffe
+gpu:	iecabrain	opencv 	caffe
+
+cifar
+cpu:	iecabrain	matlab	caffe
+gpu:	iecabrain	matlab	caffe
+
+w2v
+cpu:	iecabrain
+
+distributed:
+mnist
+cpu&gpu:	iecabrain
+
+w2v
+cpu:	iecabrain
