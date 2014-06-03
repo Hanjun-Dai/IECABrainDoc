@@ -1,21 +1,27 @@
-========thread : 3=================
-Epoch 0, Loss: 0.28071, Batch: 600
-Training time: 4.975
-416
-Epoch 0, Loss: 0.27514, Batch: 600
-Training time: 4.923
-432
-Epoch 0, Loss: 0.26568, Batch: 600
-Training time: 4.997
-404
-
-========thread : 5=================
-Epoch 0, Loss: 0.44757, Batch: 600
-Training time: 5.567
-411
-Epoch 0, Loss: 0.51581, Batch: 600
-Training time: 5.136
-397
-Epoch 0, Loss: 1.00402, Batch: 600
-Training time: 5.676
-473
+Epoch 0, Loss: 0.28149, Batch: 600
+Thread: 1, Training time: 7.401
+484
+Epoch 0, Loss: 0.28473, Batch: 600
+Thread: 1, Training time: 7.371
+506
+Epoch 0, Loss: 0.27962, Batch: 600
+Thread: 1, Training time: 7.314
+481
+Epoch 0, Loss: 0.29034, Batch: 600
+Thread: 3, Training time: 4.521
+490
+Epoch 0, Loss: 0.29321, Batch: 600
+Thread: 3, Training time: 4.034
+521
+Epoch 0, Loss: 0.28002, Batch: 600
+Thread: 3, Training time: 4.081
+499
+Epoch 0, Loss: 0.31247, Batch: 600
+Thread: 5, Training time: 4.565
+472
+Epoch 0, Loss: 0.31678, Batch: 600
+Thread: 5, Training time: 4.403
+482
+Epoch 0, Loss: 0.30866, Batch: 600
+Thread: 5, Training time: 4.393
+488
