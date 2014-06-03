@@ -1,0 +1,21 @@
+========thread : 3=================
+Epoch 0, Loss: 0.28071, Batch: 600
+Training time: 4.975
+416
+Epoch 0, Loss: 0.27514, Batch: 600
+Training time: 4.923
+432
+Epoch 0, Loss: 0.26568, Batch: 600
+Training time: 4.997
+404
+
+========thread : 5=================
+Epoch 0, Loss: 0.44757, Batch: 600
+Training time: 5.567
+411
+Epoch 0, Loss: 0.51581, Batch: 600
+Training time: 5.136
+397
+Epoch 0, Loss: 1.00402, Batch: 600
+Training time: 5.676
+473
